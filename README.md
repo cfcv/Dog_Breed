@@ -5,6 +5,7 @@ Python 3, jupyter notebook, Keras and Numpy.
  
 ## Description
 This project was divided in 6 main steps:
+Markup:
     *1: Loading the datasets
     *2: Human detection
     *3: Dog detection
