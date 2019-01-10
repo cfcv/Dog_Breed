@@ -1,5 +1,8 @@
 # Dog_Breed
 ## Requirements
+The basic requirements to run this project is to have installed:
+Python 3, jupyter notebook, Keras and Numpy.
+ 
 ## Description
 This project was divided in 6 main steps:
     1: Loading the datasets
@@ -10,7 +13,7 @@ This project was divided in 6 main steps:
     6: Testing the application
 
 #### Loading the datasets
-	In this part we load two datasets, the dataset of humans(13233 photos) and the datasets of dogs(8351 photos). Both can be found here:
+In this part we load two datasets, the dataset of humans(13233 photos) and the datasets of dogs(8351 photos). Both can be found here:
 
 #### Human detection
 In the first moment i'm using the Haarcascade face detector of opencv that detects only **frontal faces**. Later i will improve this part by using the Deep learning based face detector of opencv.
