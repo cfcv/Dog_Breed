@@ -5,13 +5,12 @@ Python 3, jupyter notebook, Keras and Numpy.
  
 ## Description
 This project was divided in 6 main steps:
-Markup:
-    *1: Loading the datasets
-    *2: Human detection
-    *3: Dog detection
-    *4: Classify dog breeds
-    *5: Writing the Application algorithm
-    *6: Testing the application
+    * 1: Loading the datasets
+    * 2: Human detection
+    * 3: Dog detection
+    * 4: Classify dog breeds
+    * 5: Writing the Application algorithm
+    * 6: Testing the application
 
 #### Loading the datasets
 In this part we load two datasets, the dataset of humans(13233 photos) and the datasets of dogs(8351 photos). Both can be found here:
